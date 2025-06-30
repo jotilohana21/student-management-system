@@ -1,3 +1,12 @@
+![student-list](https://github.com/user-attachments/assets/0eb773e8-e2c4-4cbb-ac1c-dd4253157dd5)
+![home](https://github.com/user-attachments/assets/5e3e8b1f-77d5-4bb3-a377-3c6a34ffe2b6)
+![edit-student](https://github.com/user-attachments/assets/ac7f416f-02b5-41df-abd7-d176d86973e0)
+![add-student](https://github.com/user-attachments/assets/9cfbc363-5b15-42e9-a2dd-d0662e34a6e9)
+
+## 🎬 Demo Video
+
+[▶️ Click here to watch on YouTube](https://youtu.be/IWFr4UXz2LA)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
